@@ -1,0 +1,31 @@
+.content{
+    height: 100vh;
+}
+.fa{
+    padding: 11px;
+    width: 38px;
+    text-align: center;
+    text-decoration: none;
+    margin:  1px 3px;
+    border-radius: 50%;
+}
+.fa-facebook{
+    background: rgb(104, 70, 255);
+    color: #fff;
+}
+.fa-twitter{
+    background: rgb(70, 203, 255);
+    color: #fff;
+}
+.fa-envelope{
+    background: rgb(255, 255, 255);
+    color: rgb(163, 14, 14);
+}
+.fa-instagram{
+    background: rgb(202, 12, 85);
+    color: #fff;
+}
+.fa-github{
+    background: rgb(0, 0, 0);
+    color: rgb(101, 113, 117);
+}
